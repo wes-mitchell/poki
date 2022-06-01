@@ -21,7 +21,7 @@
 
 ## PoKi ERD
 
-![poki erd](./assets/PoKi.png)
+![poki erd](https://github.com/nashville-software-school/bangazon-inc/raw/cohort-55/book-1-orientation/chapters/assets/PoKi.png)
 
 ## Investigating the Data
 
